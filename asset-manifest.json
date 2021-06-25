@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/internship-practice-weatherApp/static/css/main.b0844ac8.chunk.css",
-    "main.js": "/internship-practice-weatherApp/static/js/main.4121c893.chunk.js",
-    "main.js.map": "/internship-practice-weatherApp/static/js/main.4121c893.chunk.js.map",
+    "main.js": "/internship-practice-weatherApp/static/js/main.fa3278ff.chunk.js",
+    "main.js.map": "/internship-practice-weatherApp/static/js/main.fa3278ff.chunk.js.map",
     "runtime-main.js": "/internship-practice-weatherApp/static/js/runtime-main.5cb5960f.js",
     "runtime-main.js.map": "/internship-practice-weatherApp/static/js/runtime-main.5cb5960f.js.map",
     "static/js/2.7dcf2775.chunk.js": "/internship-practice-weatherApp/static/js/2.7dcf2775.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.5cb5960f.js",
     "static/js/2.7dcf2775.chunk.js",
     "static/css/main.b0844ac8.chunk.css",
-    "static/js/main.4121c893.chunk.js"
+    "static/js/main.fa3278ff.chunk.js"
   ]
 }
