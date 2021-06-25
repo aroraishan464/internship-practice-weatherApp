@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/internship-practice-weatherApp/static/css/main.b0844ac8.chunk.css",
+    "main.js": "/internship-practice-weatherApp/static/js/main.4093ab6f.chunk.js",
+    "main.js.map": "/internship-practice-weatherApp/static/js/main.4093ab6f.chunk.js.map",
+    "runtime-main.js": "/internship-practice-weatherApp/static/js/runtime-main.5cb5960f.js",
+    "runtime-main.js.map": "/internship-practice-weatherApp/static/js/runtime-main.5cb5960f.js.map",
+    "static/js/2.7dcf2775.chunk.js": "/internship-practice-weatherApp/static/js/2.7dcf2775.chunk.js",
+    "static/js/2.7dcf2775.chunk.js.map": "/internship-practice-weatherApp/static/js/2.7dcf2775.chunk.js.map",
+    "index.html": "/internship-practice-weatherApp/index.html",
+    "static/css/main.b0844ac8.chunk.css.map": "/internship-practice-weatherApp/static/css/main.b0844ac8.chunk.css.map",
+    "static/js/2.7dcf2775.chunk.js.LICENSE.txt": "/internship-practice-weatherApp/static/js/2.7dcf2775.chunk.js.LICENSE.txt",
+    "static/media/task2 icon.d1e2179e.svg": "/internship-practice-weatherApp/static/media/task2 icon.d1e2179e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cb5960f.js",
+    "static/js/2.7dcf2775.chunk.js",
+    "static/css/main.b0844ac8.chunk.css",
+    "static/js/main.4093ab6f.chunk.js"
+  ]
+}
