@@ -11,6 +11,7 @@ function App() {
       <div className="App">
         <img src={icon} className="back-icon" alt="icon" style={{ top: "5vh", left: "3vw" }} />
         <TemperatureContainer />
+        <h1>Updated</h1>
         <img src={icon} className="back-icon" alt="icon" style={{ bottom: "5vh", right: "3vw" }} />
       </div>
     </Provider>
